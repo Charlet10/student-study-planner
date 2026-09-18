@@ -16,11 +16,6 @@ A full-stack web application for tracking university units and assignments. Buil
 - SQLite (database)
 - HTML & CSS (frontend)
 
-## 🚀 How to Run
-1. Install dependencies: pip install flask flask-sqlalchemy
-2. Run the app: py planner.py
-3. Open your browser at http://localhost:5000
-
 ## 📚 Skills Demonstrated
 - Full-stack web development
 - Relational database design and integration
